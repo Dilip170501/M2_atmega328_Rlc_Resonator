@@ -1,1 +1,6 @@
-
+![abstract](https://github.com/Dilip170501/M2_atmega328_Rlc_Resonator/tree/main/0_Abstract)
+![requirements](https://github.com/Dilip170501/M2_atmega328_Rlc_Resonator/tree/main/1_Requirements)
+![design](https://github.com/Dilip170501/M2_atmega328_Rlc_Resonator/tree/main/2_Design)
+![implementation](https://github.com/Dilip170501/M2_atmega328_Rlc_Resonator/tree/main/3_Implementation)
+![test cases](https://github.com/Dilip170501/M2_atmega328_Rlc_Resonator/tree/main/4_Testcases)
+![output](https://github.com/Dilip170501/M2_atmega328_Rlc_Resonator/tree/main/6_Output)
